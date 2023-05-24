@@ -1,0 +1,128 @@
+{
+    "1": {
+        "task_id": "1",
+        "task_type": "Testnet",
+        "task_title": "Mantle Testnet",
+        "task_description": "Mantle Testnet\n\u27a1\ufe0f Go to :  https://snapshot.org/#/bitdao.eth\n\u2796\ufe0f Connect your wallet\n\u2796\ufe0f Click \ud83d\udd14\n\u2796\ufe0f Submit your URL on crew3 for example :  https://snapshot.org/#/profile/youraddress\n\u2796\ufe0f Done\n\n\u21aa\ufe0f Bridge : https://bridge.testnet.mantle.xyz/deposit\n\u2796\ufe0f Bridge test $BIT From Goerli Network to Network Mantle Testnet\n\u2796\ufe0f Copy Transaksi on Goerli Etherscan & Paste to Crew3.",
+        "task_rewardType": "Token",
+        "task_reward": "TBA tergantung Dev",
+        "task_deadline": "Update Dev"
+    },
+    "2": {
+        "task_id": "2",
+        "task_type": "Testnet",
+        "task_title": "Scroll Testnet",
+        "task_description": "Scroll Testnet launched on SyncSwap!\n\nYou can try :\nhttps://staging.syncswap.xyz/\n\n\u2796 Claim faucet\n\u2796 Swap 5-10 times\n\u2796 Add LP > Remove LP\n\u2705 Done!\n\nGood luck \ud83e\udee1\n\n*i recomend you  DONT SKIP SCROLL TESTNET \n**swap with high volume is better,do it every week\n*** will update more dapps on scroll ecosystem",
+        "task_rewardType": "Token",
+        "task_reward": "TBA tergantung Dev",
+        "task_deadline": "Update Dev"
+    },
+    "3": {
+        "task_id": "3",
+        "task_type": "Testnet",
+        "task_title": "Zetachain",
+        "task_description": "New Testnet : Zetachain | Switch To Georli Network\n\ud83c\udff7 Reward : Confirmed  \n\u2699\ufe0f Connect New Wallet : https://bit.ly/Zeta-Test\n\u2796\ufe0f Verify Your Twitter\n\u2796\ufe0f Click \"Request Assets\" on \" Get Zeta \"\n\u2796\ufe0f Or Request Faucet On Discord \n\ud83d\udc49 Command : zeta faucet drip 0xyouraddress\n\u2796\ufe0f Swap Assets Goerli to BSC Testnet\n\u2796\ufe0f Send Feedback to Discord #testnet-feedback \n\ud83d\udc49 Discord : https://discord.com/invite/NKAUn7d5vX\n\u2796\ufe0f Verify Your Wallet, Click \" Leaderboard \" & Confirm\n\u2796\ufe0f Try Swap 1x / Day\n\u2796\ufe0f Done\n\n\ud83d\uddbc NFT Bonus : https://galaxy.eco/ZetaChain/campaign/GCcGZUtnHZ\n\n\u27a1\ufe0f Georli ETH Faucet\n- https://goerlifaucet.com\n- https://goerli-faucet.slock.it\n- https://goerli-faucet.mudit.blog",
+        "task_rewardType": "Token",
+        "task_reward": "TBA tergantung Dev",
+        "task_deadline": "Update Dev"
+    },
+    "4": {
+        "task_id": "4",
+        "task_type": "Testnet",
+        "task_title": "Taiko",
+        "task_description": "Taiko Round 2  \n\ud83c\udff7 Reward : Potential\n\n\u25b6\ufe0f. Go to : https://chainid.network/\n\u2796 Search Sepolia & Add Chain\n\u2796 Search Taiko  & Add Chain\n\n\u25b6\ufe0f. Get Faucet : https://sepolia-faucet.pk910.de/\n\u2796 Enter your address\n\u2796 Start Mining \n\u2796 Click + on Number of Workers > Increase to 20 (to speed up the progress)",
+        "task_rewardType": "Token",
+        "task_reward": "TBA tergantung Dev",
+        "task_deadline": "Update Dev"
+    },
+    "5": {
+        "task_id": "5",
+        "task_type": "Testnet",
+        "task_title": "Linea Voyage",
+        "task_description": "Linea Voyage - Testnet Bridge\n\n\u27a1\ufe0f Claim :  https://galxe.com/Linea/campaign/GCzWYUZXj4\n\u2796\ufe0f Complete All Bridge task\n\u2796\ufe0f Claim all 96 points (FCFS Based)\n\u2796\ufe0f Use Secondary Wallet\n\n\ud83d\udcd6 Details : https://blog.galxe.com/linea-voyage-public-testnet-quest-with-galxe-fd58e6958114\n\n\ud83d\udccc Tweets:\nhttps://twitter.com/LineaBuild/status/1653387199960809479",
+        "task_rewardType": "Token",
+        "task_reward": "TBA tergantung Dev",
+        "task_deadline": "Update Dev"
+    },
+    "6": {
+        "task_id": "6",
+        "task_type": "instant",
+        "task_title": "Binance",
+        "task_description": "Register to Binance / Trade",
+        "task_rewardType": "Token BIDR",
+        "task_reward": "$3-$10",
+        "task_deadline": "2 Weeks"
+    },
+    "7": {
+        "task_id": "7",
+        "task_type": "instant",
+        "task_title": "Bybit",
+        "task_description": "Register to Bybit / Trade",
+        "task_rewardType": "Token USDT",
+        "task_reward": "$3-40",
+        "task_deadline": "1 Month"
+    },
+    "8": {
+        "task_id": "8",
+        "task_type": "instant",
+        "task_title": "Ftx",
+        "task_description": "Register to FTX & Trade",
+        "task_rewardType": "Token FTX",
+        "task_reward": "$50",
+        "task_deadline": "1 month"
+    },
+    "9": {
+        "task_id": "9",
+        "task_type": "instant",
+        "task_title": "Social Good",
+        "task_description": "Shoping get cashback 100%",
+        "task_rewardType": "Token SG",
+        "task_reward": "$100-1000",
+        "task_deadline": "1 Month"
+    },
+    "10": {
+        "task_id": "10",
+        "task_type": "instant",
+        "task_title": "Catly.io",
+        "task_description": "Mining",
+        "task_rewardType": "USDT",
+        "task_reward": "$0.1/day",
+        "task_deadline": "Until Project Dead"
+    },
+    "11": {
+        "task_id": "11",
+        "task_type": "instant",
+        "task_title": "Upbit",
+        "task_description": "Register to Upbit (LVL 2) and HOLD 1M in IDR",
+        "task_rewardType": "Coin 0.001 BTC",
+        "task_reward": "/400k -BTC $69.000",
+        "task_deadline": "1 Month"
+    },
+    "12": {
+        "task_id": "12",
+        "task_type": "instant",
+        "task_title": "BNB Doge",
+        "task_description": "BNBDOGEAI For BABT Holder\n\u27a1\ufe0f Claim : https://s.id/BNBDOGE-AI\n\u2796\ufe0f Sell Worth $6\n\u2796\ufe0f Revoke\n\u2796\ufe0f LFG\n\n\u26a1\ufe0f You Can Claim BDOGE Now!\nA total of 210,000,000,000,000,000 BDOGE tokens",
+        "task_rewardType": "Token BDOGE",
+        "task_reward": "$2-11",
+        "task_deadline": "2 days"
+    },
+    "13": {
+        "task_id": "13",
+        "task_type": "instant",
+        "task_title": "Credit Dao",
+        "task_description": "Last Chance To GET CD\n\ud83c\udff7 Reward : 15 CD For Mining ( You Must Have Binance SBT NFT )\n\u27a1\ufe0f Mint Binance SBT : Guide (https://www.binance.com/en/support/faq/how-to-mint-binance-account-bound-bab-token-bacaf9595b52440ea2b023195ba4a09c) \n\u21aa\ufe0f Claim CD : https://bit.ly/Credit-DAO\n\u2796\ufe0f Login With TokenPocket or Metamask ( Polygon )\n\u2796\ufe0f Accept Signature\n\u2796\ufe0f Click Bind Default Address\n\u2796\ufe0f Claim 15 CD For Mining\n\u2796\ufe0f Done\n\n\ud83d\udccc Rate CD : $6.2 ( Will Increased In The Futures )",
+        "task_rewardType": "Token 15 CD",
+        "task_reward": "$2-$5 month",
+        "task_deadline": "1 Month"
+    },
+    "14": {
+        "task_id": "14",
+        "task_type": "instant",
+        "task_title": "Manta",
+        "task_description": "Manta Early Adopter Incentives\n\n\n\u27a1\ufe0fClaim Here : https://galxe.com/mantanetwork/campaign/GCzqEUfFfu\n\n\u2796 Free mint for BAB holders\n\u2796 Free OAT Campaign\n\u2796 Giant Squid NFT: zkBAB Edition\n\u2796 Zealy Campaign",
+        "task_rewardType": "Get Ealy Acces Project",
+        "task_reward": "$1",
+        "task_deadline": "TBA"
+    }
+}
