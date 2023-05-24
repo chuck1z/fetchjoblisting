@@ -1,3 +1,3 @@
 # fetchjoblisting
 
-csv file converted to json using https://github.com/chuc1z/csvtojson
+csv file converted to json using https://github.com/chuck1z/csvtojson
